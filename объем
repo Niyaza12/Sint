@@ -1,0 +1,7 @@
+fun main() {
+    val a = 4
+    val b = 6
+    val c = 8
+println(a*b*c)
+    
+}
